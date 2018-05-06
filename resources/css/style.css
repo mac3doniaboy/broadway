@@ -10,7 +10,6 @@ h3{
 
 h1 {
   font-size: 70px;
-  color: white;
 }
 
 h2 {
@@ -21,11 +20,11 @@ h3 {
   font-size: 23px;
 }
 
-p{
+p {
   font-size: 14px;
 }
 
-.index {
+.supporting {
   text-align: center;
 }
 
@@ -40,7 +39,7 @@ p{
   font-size: 18px;
 }
 
-.Footer {
+.footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
